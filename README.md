@@ -1,4 +1,4 @@
-# 42_Ft_printf (@42Born2Code)
+# 42_ft_printf (@42Born2Code)
 
 "Because putnbr and putstr aren’t enough"
 
@@ -38,7 +38,7 @@ The BIG_INT library is able to perfom addition, subtraction, multiplication, div
 
 1. Download/Clone this repo
 
-        git clone https://github.com/lucaslefrancq/42_Ft_printf
+        git clone https://github.com/lucaslefrancq/42_ft_printf
 
 2. `cd` into the root directory, and run `make`
 
