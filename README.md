@@ -8,7 +8,7 @@
 
 Ft_printf is a project of the mandatory part of the 42cursus.
 The main goal is to recreate the printf function in C.
-In this case we had to understand how the different parameters in printf works (width, height...).
+In this case we had to understand how the different parameters in printf works (width, height...).  
 This ft_printf handles all the bonuses from the subject.
 
 - Ft_printf will be able to work with :
