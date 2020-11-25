@@ -12,7 +12,7 @@ In this case we had to understand how the different parameters in printf works (
 This ft_printf handles all the bonuses from the subject.
 
 - Ft_printf will be able to work with :
-    - Flags : -, 0, ., *
+    - Flags : - / 0 / . / *
 	- Conversions : %c, %s, %p, %d, %i, %u, %x, %X, %%
 	- Bonus flags : l, ll, h, hh, #, +, and space
 	- Bonus conversions : %n, %f, %e, %g
@@ -45,9 +45,9 @@ The BIG_INT library is able to perfom addition, subtraction, multiplication, div
         cd 42_ft_printf
         make
 
-3.  Compile your `main.c` with the lib `printf.a` created
+3.  Compile your `main.c` with the lib `libftprintf.a` created
 
-        gcc -Wall -Werror -Wextra main.c printf.a
+        gcc -Wall -Werror -Wextra main.c libftprintf.a
 
 ## Sources
 
