@@ -12,7 +12,7 @@ In this case we had to understand how the different parameters in printf works (
 This ft_printf handles all the bonuses from the subject.
 
 - Ft_printf will be able to work with :
-    - Flags : - / 0 / . / *
+    - Flags : -, 0, ., *
 	- Conversions : %c, %s, %p, %d, %i, %u, %x, %X, %%
 	- Bonus flags : l, ll, h, hh, #, +, and space
 	- Bonus conversions : %n, %f, %e, %g
@@ -51,6 +51,13 @@ The BIG_INT library is able to perfom addition, subtraction, multiplication, div
 
 ## Sources
 
-- [Tutorial for writing a small shell in C][5]
+- [Format specification syntax for printf][2]
+- [Printing floating point numbers][3]
+- [Comprendre les encodages et unicode (FR)][4]
+- [Understanding unicode][5]
 
-[1] https://github.com/lucaslefrancq/42_Ft_printf/blob/main/ft_printf.en.subject.pdf
+[1]: https://github.com/lucaslefrancq/42_Ft_printf/blob/main/ft_printf.en.subject.pdf
+[2]: https://docs.microsoft.com/fr-fr/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions?view=msvc-160
+[3]: http://www.ryanjuckett.com/programming/printing-floating-point-numbers/
+[4]: https://zestedesavoir.com/tutoriels/1114/comprendre-les-encodages/
+[5]: https://betterexplained.com/articles/unicode/
