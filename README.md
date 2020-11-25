@@ -1,4 +1,4 @@
-# 42_ft_printf (@42Born2Code)
+# ft_printf (@42Born2Code)
 
 "Because putnbr and putstr aren’t enough"
 
