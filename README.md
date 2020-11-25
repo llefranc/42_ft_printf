@@ -56,7 +56,7 @@ The BIG_INT library is able to perfom addition, subtraction, multiplication, div
 - [Comprendre les encodages et unicode (FR)][4]
 - [Understanding unicode][5]
 
-[1]: https://github.com/lucaslefrancq/42_Ft_printf/blob/main/ft_printf.en.subject.pdf
+[1]: https://github.com/lucaslefrancq/42_ft_printf/blob/main/ft_printf.en.subject.pdf
 [2]: https://docs.microsoft.com/fr-fr/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions?view=msvc-160
 [3]: http://www.ryanjuckett.com/programming/printing-floating-point-numbers/
 [4]: https://zestedesavoir.com/tutoriels/1114/comprendre-les-encodages/
