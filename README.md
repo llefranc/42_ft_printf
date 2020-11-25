@@ -2,7 +2,7 @@
 
 "Because putnbr and putstr aren’t enough"
 
-![Alt text](https://github.com/lucaslefrancq/42_Ft_printf/blob/main/ft_printf_example.png)
+![Alt text](https://github.com/lucaslefrancq/42_ft_printf/blob/main/ft_printf_example.png)
 
 ## About
 
