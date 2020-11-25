@@ -12,10 +12,10 @@ In this case we had to understand how the different parameters in printf works (
 This ft_printf handles all the bonuses from the subject.
 
 - Ft_printf will be able to work with :
-    - Flags : - 0 . *
-	- Conversions : %c %s %p %d %i %u %x %X %%
-	- Bonus flags : l ll h hh # + and space
-	- Bonus conversions : %n %f %e %g
+    - Flags : -, 0, ., *
+	- Conversions : %c, %s, %p, %d, %i, %u, %x, %X, %%
+	- Bonus flags : l, ll, h, hh, #, +, and space
+	- Bonus conversions : %n, %f, %e, %g
 
 You can do combination between width / heigh / flags and conversions like the real printf.  
 
@@ -53,4 +53,4 @@ The BIG_INT library is able to perfom addition, subtraction, multiplication, div
 
 - [Tutorial for writing a small shell in C][5]
 
-[1]https://github.com/lucaslefrancq/42_Ft_printf/blob/main/ft_printf.en.subject.pdf
+[1] https://github.com/lucaslefrancq/42_Ft_printf/blob/main/ft_printf.en.subject.pdf
